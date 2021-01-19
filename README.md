@@ -1,15 +1,17 @@
 # mirepositorio
-repositorio general
-Pequeño proyecto que 
+repositorio general<br>
+Pequeño proyecto que <br>
 -genera numeros aleatorios y los guarda en un archivo<br>
--lee el archivo generado
--ordena los numeros aleatorios y los guarda en un archivo nuevo
--lee el archivo con los numeros ordenados
--busca un numero dentro de la lista ordenada
+-lee el archivo generado<br>
+-ordena los numeros aleatorios y los guarda en un archivo nuevo<br>
+-lee el archivo con los numeros ordenados<br>
+-busca un numero dentro de la lista ordenada<br>
 
-algoritmos que se utilizan para ordenar los numeros:
--BubbleSort
--Insertionsort
--HeapSort
--QuickSort
--ParallelSort
+algoritmos que se utilizan para ordenar los numeros:<br>
+<ul>
+  <li>BubbleSort</li>
+  <li>Insertionsort</li>
+  <li>HeapSort</li>
+  <li>QuickSort</li>
+  <li>ParallelSort</li>
+</ul>
