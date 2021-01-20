@@ -1,19 +1,19 @@
-# Proyecto basico en JAVA
+# Proyecto básico en JAVA
 
 Pequeño proyecto que realiza las siguientes funciones:
 
- * Genera numeros aleatorios y los guarda en un archivo
+ * Genera números aleatorios y los guarda en un archivo
  * lee el archivo generado
- * Ordena los numeros aleatorios y los guarda en un archivo nuevo
- * lee el archivo con los numeros ordenados
- * Busca un numero dentro de la ultima lista ordenada generada
+ * Ordena los números aleatorios y los guarda en un archivo nuevo
+ * lee el archivo con los números ordenados
+ * Busca un número dentro de la última lista ordenada generada
 
-Algoritmos que se pueden utilizar para ordenar los numeros:
+Algoritmos que se pueden utilizar para ordenar los números:
   * BubbleSort
   * QuickSort
   * ParallelSort
   * HeapSort
-  * Insertionsort
+  * InsertionSort
   
   ***
   La clase Desafio es la clase Main del proyecto.
