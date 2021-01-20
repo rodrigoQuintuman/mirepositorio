@@ -1,4 +1,4 @@
-+ #Proyecto basico en JAVA
+# Proyecto basico en JAVA
 Pequeño proyecto que realiza las siguientes funciones
 -genera numeros aleatorios y los guarda en un archivo
 -lee el archivo generado
